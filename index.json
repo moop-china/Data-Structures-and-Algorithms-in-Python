@@ -1,23 +1,41 @@
 {
     "labs": [{
-	"1 Python入门":"01-Introduction-to-Python.ipynb"},{
-	"2 面向对象编程":"02-OOP.ipynb"},{
-	"3 算法分析":"03-Algorithm-Analysis.ipynb"},{
-	"4 递归":"04-Recursion.ipynb"},{
-	"5 基于数组的序列":"05-Array-Based-Sequences.ipynb"},{
-	"6 栈和队列":"06-Stacks-and-Queues.ipynb"},{
-	"7 链表":"07-Linked-Lists.ipynb"},{
-	"8 散列表和集合":"Hash-Tables-and-Sets.ipynb"},{
-	"9 排序算法":"09-Sorting-Algorithms.ipynb"},{
-	"10 树":"10-Trees.ipynb"},{
-	"11 堆、B+树和跳表":"11-Heaps-B+Trees-and-Skiplists.ipynb"},{
-        "作业1":"Assignment-01.ipynb"},{
-        "作业2":"Assignment-02.ipynb"},{
-        "作业3":"Assignment-03.ipynb"},{
-        "作业4":"Assignment-04.ipynb"},{
-        "作业5":"Assignment-05.ipynb"},{
-        "作业6":"Assignment-06.ipynb"},{
-        "作业7":"Assignment-07.ipynb"},{
-        "作业8":"Assignment-08.ipynb"
+        "01-Introduction-to-Python.ipynb": "1 Python入门"
+    }, {
+        "02-OOP.ipynb": "2 面向对象编程"
+    }, {
+        "03-Algorithm-Analysis.ipynb": "3 算法分析"
+    }, {
+        "04-Recursion.ipynb": "4 递归"
+    }, {
+        "05-Array-Based-Sequences.ipynb": "5 基于数组的序列"
+    }, {
+        "06-Stacks-and-Queues.ipynb": "6 栈和队列"
+    }, {
+        "07-Linked-Lists.ipynb": "7 链表"
+    }, {
+        "Hash-Tables-and-Sets.ipynb": "8 散列表和集合"
+    }, {
+        "09-Sorting-Algorithms.ipynb": "9 排序算法"
+    }, {
+        "10-Trees.ipynb": "10 树"
+    }, {
+        "11-Heaps-B+Trees-and-Skiplists.ipynb": "11 堆、B+树和跳表"
+    }, {
+        "Assignment-01.ipynb": "作业1"
+    }, {
+        "Assignment-02.ipynb": "作业2"
+    }, {
+        "Assignment-03.ipynb": "作业3"
+    }, {
+        "Assignment-04.ipynb": "作业4"
+    }, {
+        "Assignment-05.ipynb": "作业5"
+    }, {
+        "Assignment-06.ipynb": "作业6"
+    }, {
+        "Assignment-07.ipynb": "作业7"
+    }, {
+        "Assignment-08.ipynb": "作业8"
     }]
 }
