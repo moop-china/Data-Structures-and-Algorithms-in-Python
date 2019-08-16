@@ -1,26 +1,26 @@
 {
     "labs": [{
-        "01-Introduction-to-Python.ipynb": "1 Python入门"
+        "01-Introduction-to-Python.ipynb": "Python入门"
     }, {
-        "02-OOP.ipynb": "2 面向对象编程"
+        "02-OOP.ipynb": "面向对象编程"
     }, {
-        "03-Algorithm-Analysis.ipynb": "3 算法分析"
+        "03-Algorithm-Analysis.ipynb": "算法分析"
     }, {
-        "04-Recursion.ipynb": "4 递归"
+        "04-Recursion.ipynb": "递归"
     }, {
-        "05-Array-Based-Sequences.ipynb": "5 基于数组的序列"
+        "05-Array-Based-Sequences.ipynb": "基于数组的序列"
     }, {
-        "06-Stacks-and-Queues.ipynb": "6 栈和队列"
+        "06-Stacks-and-Queues.ipynb": "栈和队列"
     }, {
-        "07-Linked-Lists.ipynb": "7 链表"
+        "07-Linked-Lists.ipynb": "链表"
     }, {
-        "Hash-Tables-and-Sets.ipynb": "8 散列表和集合"
+        "Hash-Tables-and-Sets.ipynb": "散列表和集合"
     }, {
-        "09-Sorting-Algorithms.ipynb": "9 排序算法"
+        "09-Sorting-Algorithms.ipynb": "排序算法"
     }, {
-        "10-Trees.ipynb": "10 树"
+        "10-Trees.ipynb": "树"
     }, {
-        "11-Heaps-B+Trees-and-Skiplists.ipynb": "11 堆、B+树和跳表"
+        "11-Heaps-B+Trees-and-Skiplists.ipynb": "堆、B+树和跳表"
     }, {
         "Assignment-01.ipynb": "作业1"
     }, {
